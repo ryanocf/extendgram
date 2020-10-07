@@ -14,7 +14,7 @@ ___
 
 - Any modern browser
 - Latest version of [Tampermonkey](https://tampermonkey.net/)
-- [extendgram userscript](https://raw.githubusercontent.com/ryanocf/extendgram/main/dist/js/extendgram.user.js)
+- [extendgram userscript](https://raw.githubusercontent.com/ryanocf/extendgram/main/src/dist/js/extendgram.user.js)
 
 ## Features
 
