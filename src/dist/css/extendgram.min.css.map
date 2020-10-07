@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../../scss/extendgram.scss",
+        "../../scss/.ignore/_variables.scss",
+        "../../scss/.ignore/_mixins.scss"
+    ],
+    "names": [],
+    "file": "extendgram.min.css"
+}

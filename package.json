@@ -1,0 +1,14 @@
+{
+    "name": "extendgram",
+    "version": "1.0.0",
+    "description": "Extends functionality and user experience on instagram",
+    "main": "index.js",
+    "author": "ryano",
+    "license": "MIT",
+    "private": false,
+    "scripts": {
+        "compile": "node src/compile/userscript.js"
+    },
+    "devDependencies": {},
+    "dependencies": {}
+}

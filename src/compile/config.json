@@ -1,0 +1,48 @@
+{
+    "files": [
+        "../js/classes/logger.js",
+        "../js/classes/helper.js",
+        "../js/classes/settings.js",
+        "../js/classes/gather.js",
+        "../js/extendgram.js"
+    ],
+    "globals": ["../js/globals.js"],
+    "header": {
+        "name": "extendgram",
+        "namespace": "",
+        "description": "",
+        "version": "",
+        "author": "",
+        "source": "https://github.com/ryanocf/extendgram",
+        "icon": "",
+        "icon64": "",
+        "updateURL": "https://raw.githubusercontent.com/ryanocf/extendgram/main/dist/js/extendgram.user.js",
+        "downloadURL": "https://raw.githubusercontent.com/ryanocf/extendgram/main/dist/js/extendgram.user.js",
+        "supportURL": "https://github.com/ryanocf/extendgram",
+        "include": ["http://*.instagram.com/*", "https://*.instagram.com/*"],
+        "match": [],
+        "exclude": [],
+        "require": [],
+        "resource": [],
+        "connect": [],
+        "run-at": "document-end",
+        "grant": [
+            "GM_addStyle",
+            "GM_addValueChangeListener",
+            "GM_deleteValue",
+            "GM_download",
+            "GM_getValue",
+            "GM_info",
+            "GM_listValues",
+            "GM_notification",
+            "GM_openInTab",
+            "GM_removeValueChangeListener",
+            "GM_setClipboard",
+            "GM_setValue"
+        ],
+        "noframes": false,
+        "nocompact": ""
+    },
+    "path": "../dist/js",
+    "styles": ["../dist/css/extendgram.min.css"]
+}
