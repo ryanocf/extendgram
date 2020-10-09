@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/%E2%80%8E-Javascript-f7df1e?style=flat-square&logoWidth=20&logo=javascript" />
     <img src="https://i.imgur.com/psbC08Z.png">
     <br/><br/>
-    Extends functionality and user experience on <a href="https://instagram.com/">instagram</a>
+    Extends functionality and user experience on <a href="https://instagram.com/" target="_blank">instagram</a>
 </div>
 
 ___
@@ -13,8 +13,8 @@ ___
 ## Requirements
 
 - Any modern browser
-- Latest version of [Tampermonkey](https://tampermonkey.net/)
-- [extendgram userscript](https://raw.githubusercontent.com/ryanocf/extendgram/main/src/dist/js/extendgram.user.js)
+- Latest version of <a href="https://tampermonkey.net/" target="_blank">Tampermonkey</a>
+- <a href="https://raw.githubusercontent.com/ryanocf/extendgram/main/src/dist/js/extendgram.user.js" target="_blank">extendgram userscript</a>
 
 ## Features
 
@@ -31,4 +31,4 @@ ___
 
 ## Credits
 
-https://materialdesignicons.com/
+<a href="https://materialdesignicons.com/" target="_blank">https://materialdesignicons.com/</a>
